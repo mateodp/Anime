@@ -1,0 +1,11 @@
+$primary: #13258f;
+
+$container-max-widths: (
+  sm: 80%,
+  md: 80%,
+  lg: 80%,
+  xl: 70%,
+  xxl: 70%
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss"

@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  },
+  "name": "web-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "purgecss --css static/custom.css --content templates/layout.html --output static/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
